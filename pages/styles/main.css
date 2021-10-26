@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 550px;
+}
+
+.container img {
+    width: 100%;
+}
